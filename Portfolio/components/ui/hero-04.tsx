@@ -47,7 +47,7 @@ export function HeroSection04() {
         {/* Bio text at bottom center */}
         <div className="absolute bottom-12 left-1/2 transform -translate-x-1/2 z-20">
           <p className="mx-auto max-w-2xl font-mono text-center text-sm font-medium tracking-wide md:text-base text-white">
-            I'M A FULL-STACK WEB DEVELOPER,
+            I&apos;M A FULL-STACK WEB DEVELOPER,
             <br />
             WHO DESIGNS AND BUILDS SCALABLE PRODUCTS AND
             <br />
